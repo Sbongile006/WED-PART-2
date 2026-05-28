@@ -23,7 +23,7 @@ Modern bakery background
 Responsive layout
 2. About Page
 
-Provides information about the bakery.
+Provides information about the bakery.It also provies clear goals for the company.
 
 Features
 Bakery history
